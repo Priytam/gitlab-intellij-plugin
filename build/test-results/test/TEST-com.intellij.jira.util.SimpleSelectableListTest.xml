@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.intellij.jira.util.SimpleSelectableListTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-08-08T16:03:48" hostname="Apples-MacBook-Pro.local" time="0.012">
+  <properties/>
+  <testcase name="test_update_one" classname="com.intellij.jira.util.SimpleSelectableListTest" time="0.009"/>
+  <testcase name="test_update_two" classname="com.intellij.jira.util.SimpleSelectableListTest" time="0.0"/>
+  <testcase name="test_remove_case_one" classname="com.intellij.jira.util.SimpleSelectableListTest" time="0.0"/>
+  <testcase name="test_remove_case_two" classname="com.intellij.jira.util.SimpleSelectableListTest" time="0.0"/>
+  <testcase name="test_add" classname="com.intellij.jira.util.SimpleSelectableListTest" time="0.0"/>
+  <testcase name="test_select_item" classname="com.intellij.jira.util.SimpleSelectableListTest" time="0.0"/>
+  <testcase name="test_remove_case_three" classname="com.intellij.jira.util.SimpleSelectableListTest" time="0.0"/>
+  <testcase name="test_clear" classname="com.intellij.jira.util.SimpleSelectableListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

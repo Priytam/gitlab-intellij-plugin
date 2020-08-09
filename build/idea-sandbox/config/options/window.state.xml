@@ -1,0 +1,37 @@
+<application>
+  <component name="WindowManager">
+    <frame x="0" y="0" width="1440" height="900" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="331" y="107" key="NewModule_or_Project.wizard" timestamp="1596997364945">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="331" y="107" key="NewModule_or_Project.wizard/0.23.1440.877" timestamp="1596997364944" />
+    <state x="1040" y="741" width="400" height="156" key="ProcessPopupWindow" timestamp="1596997618377">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="1040" y="741" width="400" height="156" key="ProcessPopupWindow/0.23.1440.877" timestamp="1596997618377" />
+    <state x="719" y="403" key="WELCOME_SCREEN" timestamp="1596953174094">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="719" y="403" key="WELCOME_SCREEN/0.23.1440.877" timestamp="1596953174094" />
+    <state x="97" y="23" key="new project wizard" timestamp="1596915532500">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="97" y="23" key="new project wizard/0.23.1440.877" timestamp="1596915532500" />
+  </component>
+</application>

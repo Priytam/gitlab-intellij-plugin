@@ -1,0 +1,288 @@
+defaults write com.apple.appstore.commerce Storefront -string "$(defaults read com.apple.appstore.commerce Storefront | sed s/,8/,13/)"
+defaults write com.apple.appstore.commerce Storefront -string "$(defaults read com.apple.appstore.commerce Storefront | sed s/,8/,13/)"
+defaults write com.apple.appstore.commerce Storefront -string "$(defaults read com.apple.appstore.commerce Storefront | sed s/,8/,13/)"
+defaults write com.apple.appstore.commerce Storefront -string "$(defaults read com.apple.appstore.commerce Storefront | sed s/,8/,13/)"
+defaults write com.apple.appstore.commerce Storefront -string "$(defaults read com.apple.appstore.commerce Storefront | sed s/,8/,13/)"
+defaults write com.apple.appstore.commerce Storefront -string "$(defaults read com.apple.appstore.commerce Storefront | sed s/,8/,13/)"
+ defaults write com.apple.appstore.commerce Storefront -string "$(defaults read com.apple.appstore.commerce Storefront | sed s/,8/,13/)"
+brew tap adoptopenjdk/openjdk
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew tap homebrew/cask-versions
+brew update
+brew tap adoptopenjdk/openjdk
+brew cask install adoptopenjdk8
+brew cask install adoptopenjdk9
+brew cask install adoptopenjdk8
+brew cask install adoptopenjdk8
+brew cask install adoptopenjdk/openjdk/adoptopenjdk8
+brew cask install adoptopenjdk10
+brew cask install adoptopenjdk11
+ xcode-select --install
+java hime
+java --version
+cd /Library/Java/JavaVirtualMachines/
+ls
+rm -Rf adoptopenjdk-9.jdk/
+ls
+sudo rm -Rf adoptopenjdk-9.jdk/
+ls
+ssh-keygen -t rsa -b 2048 -C "email@example.com"
+ssh-keygen -t rsa -b 2048 -C "ppandey@falabella.cl"
+cat /Users/priytamjeepandey/.ssh/id_rsa.pub
+mkdir workspace
+cd workspace/
+ls
+git clone git@git.fala.cl:catalyst/core/shipping/development/shipping-aggregator.git
+sdk install gradle 6.4
+gradle -version
+java -version
+brew install gradle 6.4
+curl -s "https://get.sdkman.io" | bash
+cd workspace/
+source "$HOME/.sdkman/bin/sdkman-init.sh"
+sdk version
+sdk install gradle 6.4
+gradle wrapper
+ls
+cd shipping-aggregator/
+ls
+gradle wrapper
+make run
+cd ..
+ls
+rm -Rf gradle gradlew gradlew.bat
+ls
+docker --version
+docker exec -it d5cd95f5d56c64e908264d1c6c3981b179619ce2f591480f9054a69dbe65b5b1 /bin/sh; exit
+/Applications/Postgres.app/Contents/Versions/12/bin/psql -p5432 "template1"
+/Applications/Postgres.app/Contents/Versions/12/bin/psql -p5432 "postgres"
+/Applications/Postgres.app/Contents/Versions/12/bin/psql -p5432 "postgres"
+/Applications/Postgres.app/Contents/Versions/12/bin/psql -p5432 "postgres"
+git checkout -b feature/cache-refactor
+git status 
+git stash
+git status 
+git pull origin master
+git status 
+git status
+git status 
+git stash pop
+git status
+git log
+git push
+    git push --set-upstream origin feature/cache-refactor
+    git push --set-upstream origin feature/cache-refactor
+git push --set-upstream origin feature/cache-refactor
+git branch
+git checkout master 
+git pull origin master
+git status 
+git branch
+git checkout feature/cache-refactor
+git status 
+git branch
+git stash
+git status
+git pull 
+git pull 
+make fix-lint
+git checkout master
+git stash pop
+git stash
+git pull
+git status 
+git branch
+git checkout feature/cache-refactor
+git pull 
+git pull
+/Applications/Postgres.app/Contents/Versions/12/bin/psql -p5432 "postgres"
+redi-cli
+redis-cli
+sudo mkdir -p /etc/paths.d && echo /Applications/Postgres.app/Contents/Versions/latest/bin | sudo tee /etc/paths.d/postgresapp
+sudo mkdir -p /etc/paths.d && echo /Applications/Postgres.app/Contents/Versions/latest/bin | sudo tee /etc/paths.d/postgresapp
+cd workspace/shipping-aggregator/
+make run
+make run-with-docker
+make run-with-docker
+docker -v
+make run-with-docker
+docker --version
+docker --version
+make run-with-docker
+brew install redis
+make run-with-docker
+docker ps
+make run-with-docker
+docker ps
+docker ps
+docker logs 005c94b284bf
+redis-cli
+redis-cli
+redis-server
+psql shipping_aggregator
+psql
+psql -d postgres
+psql -U postgres -d shipping_aggregator
+psql -U postgres
+sudo -u postgres psql
+ssh-keygen -t rsa -b 2048 -C "email@example.com"
+cat /Users/priytamjeepandey/.ssh/id_rsa.pub
+cat /Users/priytamjeepandey/.ssh/id_rsa.pub
+vi ~/.ssh/config
+vi ~/.gitconfig 
+redis-server
+redis-cli
+redis-cli
+redi-cli
+redis-cli
+pwd
+ls
+cd myworkspace/
+https://github.com/Priytam/datalekhashastra.git
+git clone https://github.com/Priytam/datalekhashastra.git
+git checkout https://github.com/Priytam/util.git
+git checkout https://github.com/Priytam/util.git
+git branch
+git checkout -b cca-389-price-calculator-integration-complete
+git pull origin master
+git status 
+git commit
+git push 
+git branch
+git branch -d feature/cca-389-price-calculator-integration
+git branch -D feature/cca-389-price-calculator-integration
+git branch checkout feature/cca-389-price-calculator-integration
+git branch  feature/cca-389-price-calculator-integration
+git branch
+git fetch
+git checkout -b cca-389-price-calculator-integration-complete
+make fix-lint
+make fix-lint
+make me-happy
+git checkout -b cca-389-price-calculator-integration
+git fetch
+git branch
+git checkout -D cca-389-price-calculator-integration
+git branch
+git checkout cca-389-price-calculator-integration-complete
+git checkout -b feature/cca-389-price-calculator-integration-complete
+git push origin feature/cca-389-price-calculator-integration-complete
+git pull origin master
+git checkout feature/cca-389-price-calculator-integration
+git pull
+git pull origin
+make fix-lint
+make me-happy
+make fix-lint
+make me-happy
+make fix-lint
+git fetch
+git checkout 
+git checkout feature/cca-597-redis-model-update
+git pull
+git branch
+git checkout feature/cca-389-price-calculator-integration-complete
+git pull origin master
+make fix-lint
+make fix-lint
+git status
+git add .
+git status
+git commit
+git push
+    git push --set-upstream origin feature/cca-389-price-calculator-integration-complete
+git checkout master
+git pull origin master
+git branch
+git stash
+git commit
+git status 
+git add .
+git commit 
+git checkout origin/master
+git status
+git master
+git master
+git branch
+git locg
+git log
+git checkout HEAD
+git branch
+git checkout 1d6da82f940b2982a0ef52017f9d8758585800c5
+git branch
+git rebase HEAD master
+git status
+git branch
+git status
+git add 
+git add .
+git commit
+git branch
+git rebase HEAD master
+git rebase --continue
+git status
+git branch
+git log
+git revert 6161b2a8d501de8053020c371e3f66da79aa7085
+git status
+git log
+cd ..
+pwd
+ls
+mv shipping-aggregator/ shipping-aggregator-bk
+ls
+git clone git@git.fala.cl:catalyst/core/shipping/development/shipping-aggregator.git
+docker exec -it 5a320381b91d25807f829daf050b35c0fbd579f6df02c9aeae08d2b4244eba61 /bin/sh; exit
+redis-cli
+docker exec -it ef6ecb74ba01ccd6bb501ff4be3929f8da214cc78f7e07947c667ee36e8caccf /bin/sh; exit
+docker exec -it ef6ecb74ba01ccd6bb501ff4be3929f8da214cc78f7e07947c667ee36e8caccf /bin/sh; exit
+redis-cli
+docker ps
+redis 
+redis-server
+git clone https://github.com/Priytam/util.git
+mv util/ myworkspace/
+cd myworkspace/
+ls
+docker run --rm --name pg-docker -e POSTGRES_PASSWORD=docker -d -p 5433:5432 -v $HOME/docker/volumes/postgres:/var/lib/postgresql/data postgres
+docker run --rm --name pg-docker -e POSTGRES_PASSWORD=docker -d -p 5433:5432 -v $HOME/docker/volumes/postgres:/var/lib/postgresql/data postgres
+docker ps
+docker ps
+docker ps
+kill -9 0420e004aaae
+docker ps
+kill -9 0420e004aaae
+docker ps
+docker stop 0420e004aaae
+docker ps
+docker kill 0420e004aaae
+docker ps -a
+docker kill -9 6a76858d06c1
+docker ps -a
+docker kill -f 6a76858d06c1
+docker kill --help
+docker rm 6a76858d06c1
+docker ps -a
+docker ps -a
+docker rm 0420e004aaae
+docker ps -a
+cd ~/Documents/
+ls
+$ stubby -w -s 7000 -d stubs.yaml
+$ stubby -w -s 7000 -d stubs.yaml
+$ stubby -w -s 7000 -d stubs.yaml
+brew install stubby
+stubby -w -s 7000 -d stubs.yaml
+stubby -w -s 7000 -d stubs.yaml
+sudo stubby -s 7000 -d stubs.yaml
+stubby 7000 -d stubs.yaml
+npm --version
+noder --version
+node --version
+node --version
+npm --version
+npm install -g stubby
+sudo npm install -g stubby
+brew uninstall stubby
+sudo npm install -g stubby
+stubby -w -s 7000 -d stubs.yaml

@@ -1,0 +1,56 @@
+<idea-plugin>
+  <version>1.0.0</version>
+  <change-notes>
+      Version 1.0.0&lt;br&gt;
+      &lt;ul&gt;
+        &lt;li&gt;First release&lt;/li&gt;
+      &lt;/ul&gt;</change-notes>
+  <idea-version since-build="193.5233" until-build="193.*"/>
+  <id>com.intellij.gitlab</id>
+  <name>Gitlab Integration</name>
+  <vendor email="mrpjpandey@gmail.com" url="https://github.com/priytam/gitlab-intellij-plugin">Priytam Jee Pandey
+    </vendor>
+  <description>
+        
+
+            This plugin provides the followings functionalities:
+            &lt;ul&gt;
+                &lt;li&gt;Fetch pipelines from server for given project&lt;/li&gt;
+                &lt;li&gt;View pipelines details&lt;/li&gt;
+                 &lt;li&gt;View pipeline's jobs&lt;/li&gt;
+                &lt;li&gt;Run actions on pipeline/job, like cancel an pipeline/job, retry it, play manual job,...&lt;/li&gt;
+                &lt;li&gt;Go to specific pipeline on list&lt;/li&gt;
+            &lt;/ul&gt;
+
+        
+    </description>
+  <depends>com.intellij.modules.lang</depends>
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.tasks</depends>
+  <depends>Git4Idea</depends>
+  <application-components>
+    <component>
+      <implementation-class>com.intellij.gitlab.components.GitLabActionManager</implementation-class>
+    </component>
+    <component>
+      <implementation-class>com.intellij.gitlab.components.GitLabNotificationManager</implementation-class>
+    </component>
+  </application-components>
+  <project-components>
+    <component>
+      <implementation-class>com.intellij.gitlab.server.GitLabServerManager</implementation-class>
+    </component>
+    <component>
+      <implementation-class>com.intellij.gitlab.components.GitLabPipelineUpdater</implementation-class>
+    </component>
+    <component>
+      <implementation-class>com.intellij.gitlab.components.GitLabMergeRequestUpdater</implementation-class>
+    </component>
+  </project-components>
+  <extensions defaultExtensionNs="com.intellij">
+    <toolWindow id="GitLab" anchor="bottom" icon="/icons/gitlab-logo-square.png" factoryClass="com.intellij.gitlab.ui.GitLabToolWindowFactory"/>
+  </extensions>
+  <actions>
+    <action id="Gitlab.toolwindow.Refresh" class="com.intellij.gitlab.actions.GitLabPipelineRefreshAction" text="Refresh Pipelines" description="Updates the project pipelines" icon="AllIcons.Actions.Refresh"/>
+  </actions>
+</idea-plugin>

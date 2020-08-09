@@ -1,0 +1,51 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/myworkspace/test">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1fpWUnp87Stlb0VkVjmEymbHKAF">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-193.5233.102" />
+              <option name="buildTimestamp" value="1574898454163" />
+              <frame x="0" y="0" width="1440" height="900" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1596994358937" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/myworkspace/util">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1fpWJvYCCxOJI6CvVboA1dAtveQ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-193.5233.102" />
+              <option name="buildTimestamp" value="1574898459727" />
+              <frame x="20" y="43" width="1400" height="837" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1596997304916" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/shipping-aggregator">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1epqmUnxHreCoLwqQ6IA6WtWHcl">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-193.5233.102" />
+              <option name="buildTimestamp" value="1574898459727" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1596997380103" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/myworkspace" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/shipping-aggregator" />
+        <option value="$USER_HOME$/myworkspace/util" />
+        <option value="$USER_HOME$/myworkspace/test" />
+      </list>
+    </option>
+  </component>
+</application>
