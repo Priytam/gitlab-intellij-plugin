@@ -23,11 +23,13 @@ dependencies {
 }
 
 intellij {
-    version = '2019.3'
+    version = '2018.3'
     plugins = ['tasks', 'git4idea']
 }
 
 patchPluginXml {
+    sinceBuild '172'
+    untilBuild ''
     changeNotes """
       Version 1.0.0<br>
       <ul>
